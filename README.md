@@ -74,6 +74,13 @@ Then, you can edit in your favorite editor or textarea in following way:
 6. Cmd+V in editor.
 
 
+## Known problem
+
+Copy-paste keyboard shortcut is not working yet.
+To fix this problem, photino menu implementation is necessary.
+
+Please use right-click menu for a while.
+
 ## Open source libraries
 
 mdvcat uses following libraries.

@@ -2,7 +2,7 @@
 
 GUI GFM markdown table editor with stdin-stdout.
 
-![demo animation of gif](https://github.com/karino2/mdvtbl/raw/main/screenshot/mdvtbl_demo.gif)
+![demo animation of gif](https://github.com/karino2/mdvtbl/raw/master/screenshot/mdvtbl_demo.gif)
 
 ## Install
 

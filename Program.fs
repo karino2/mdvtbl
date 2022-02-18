@@ -126,7 +126,7 @@ let main argv =
         let table =  if lines.Length > 1 then
                         md2table lines
                      else
-                        {withHeadings=false; content=[|[|"";""|]|]}
+                        {withHeadings=true; content=[|[|"";""|]|]}
         launchBrowser (JsonSerializer.Serialize table)
 
         0 // return an integer exit code

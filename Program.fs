@@ -5,7 +5,7 @@ open System.Drawing
 open System.IO
 open System.Reflection
 open System.Text.Json
-open PhotinoNET
+open Photino.NET
 open System.Text.RegularExpressions
 
 
